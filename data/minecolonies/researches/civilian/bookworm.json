@@ -11,15 +11,6 @@
     {
       "building": "school",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:bookshelf"
-        ]
-      },
-      "quantity": 6
     }
   ],
   "researchLevel": 3,

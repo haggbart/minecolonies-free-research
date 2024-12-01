@@ -11,15 +11,6 @@
     {
       "building": "sawmill",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:paper"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 3,

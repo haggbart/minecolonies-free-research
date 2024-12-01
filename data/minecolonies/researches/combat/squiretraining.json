@@ -11,15 +11,6 @@
     {
       "building": "combatacademy",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:shield"
-        ]
-      },
-      "quantity": 4
     }
   ],
   "researchLevel": 3,

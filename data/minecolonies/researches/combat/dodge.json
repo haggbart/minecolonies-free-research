@@ -11,15 +11,6 @@
     {
       "building": "smeltery",
       "level": 1
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:leather"
-        ]
-      },
-      "quantity": 16
     }
   ],
   "researchLevel": 2,

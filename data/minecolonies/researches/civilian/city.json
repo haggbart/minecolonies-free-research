@@ -11,15 +11,6 @@
     {
       "building": "townhall",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:cooked_beef"
-        ]
-      },
-      "quantity": 512
     }
   ],
   "researchLevel": 5

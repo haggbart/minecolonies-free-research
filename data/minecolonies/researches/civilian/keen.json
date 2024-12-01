@@ -10,15 +10,6 @@
     {
       "building": "residence",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:book"
-        ]
-      },
-      "quantity": 3
     }
   ],
   "researchLevel": 1,

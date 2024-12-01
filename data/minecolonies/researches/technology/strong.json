@@ -11,15 +11,6 @@
     {
       "building": "blacksmith",
       "level": 1
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:diamond"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 2

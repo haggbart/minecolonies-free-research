@@ -11,15 +11,6 @@
     {
       "building": "hospital",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:egg"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 4,

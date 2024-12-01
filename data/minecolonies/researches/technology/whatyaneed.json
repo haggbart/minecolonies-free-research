@@ -11,15 +11,6 @@
     {
       "building": "blacksmith",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:redstone"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 2,

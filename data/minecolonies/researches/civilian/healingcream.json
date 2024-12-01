@@ -11,15 +11,6 @@
     {
       "building": "library",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:golden_carrot"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 3,

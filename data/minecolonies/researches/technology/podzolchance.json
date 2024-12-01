@@ -11,15 +11,6 @@
     {
       "building": "composter",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:podzol"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 2,

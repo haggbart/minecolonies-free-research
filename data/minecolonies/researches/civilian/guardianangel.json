@@ -11,15 +11,6 @@
     {
       "building": "townhall",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:hay_block"
-        ]
-      },
-      "quantity": 128
     }
   ],
   "researchLevel": 5

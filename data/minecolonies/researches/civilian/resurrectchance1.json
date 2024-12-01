@@ -11,15 +11,6 @@
     {
       "building": "graveyard",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:ghast_tear"
-        ]
-      },
-      "quantity": 1
     }
   ],
   "researchLevel": 2,

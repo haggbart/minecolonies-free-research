@@ -11,15 +11,6 @@
     {
       "level": 4,
       "mandatory-building": "blacksmith"
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:iron_ingot"
-        ]
-      },
-      "quantity": 32
     }
   ],
   "researchLevel": 5,

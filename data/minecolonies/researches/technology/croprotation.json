@@ -11,24 +11,6 @@
     {
       "building": "plantation",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:sugar_cane"
-        ]
-      },
-      "quantity": 32
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:cactus"
-        ]
-      },
-      "quantity": 32
     }
   ],
   "researchLevel": 3,

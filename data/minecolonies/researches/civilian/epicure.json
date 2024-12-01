@@ -11,15 +11,6 @@
     {
       "building": "cook",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:cookie"
-        ]
-      },
-      "quantity": 256
     }
   ],
   "researchLevel": 5

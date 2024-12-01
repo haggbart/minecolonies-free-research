@@ -8,33 +8,6 @@
   "icon": "minecolonies:gate_wood",
   "parentResearch": "minecolonies:technology/whatyaneed",
   "requirements": [
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecolonies:gate_wood"
-        ]
-      },
-      "quantity": 64
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecolonies:ancienttome"
-        ]
-      },
-      "quantity": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:iron_block"
-        ]
-      },
-      "quantity": 5
-    }
   ],
   "researchLevel": 3
 }

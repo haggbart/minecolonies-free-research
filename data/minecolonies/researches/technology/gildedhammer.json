@@ -11,33 +11,6 @@
     {
       "building": "crusher",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:gravel"
-        ]
-      },
-      "quantity": 64
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:sand"
-        ]
-      },
-      "quantity": 64
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:clay"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 3,

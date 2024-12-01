@@ -11,15 +11,6 @@
     {
       "building": "guardtower",
       "level": 4
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:emerald"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 3

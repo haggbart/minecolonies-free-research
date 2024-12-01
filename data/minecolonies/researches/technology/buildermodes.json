@@ -11,15 +11,6 @@
     {
       "building": "builder",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:diamond_axe"
-        ]
-      },
-      "quantity": 1
     }
   ],
   "researchLevel": 3,

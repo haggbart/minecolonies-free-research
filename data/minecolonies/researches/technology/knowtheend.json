@@ -11,15 +11,6 @@
     {
       "building": "baker",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:chorus_fruit"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 3,

@@ -11,15 +11,6 @@
     {
       "building": "miner",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:iron_ingot"
-        ]
-      },
-      "quantity": 128
     }
   ],
   "researchLevel": 3,

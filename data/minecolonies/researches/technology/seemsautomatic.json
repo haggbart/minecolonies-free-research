@@ -11,15 +11,6 @@
     {
       "building": "blacksmith",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:iron_ingot"
-        ]
-      },
-      "quantity": 512
     }
   ],
   "researchLevel": 5,

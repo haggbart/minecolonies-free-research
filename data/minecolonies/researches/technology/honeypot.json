@@ -11,15 +11,6 @@
     {
       "building": "beekeeper",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:beehive"
-        ]
-      },
-      "quantity": 16
     }
   ],
   "researchLevel": 3,

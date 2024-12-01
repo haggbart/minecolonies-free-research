@@ -11,24 +11,6 @@
     {
       "building": "deliveryman",
       "level": 9
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecolonies:clipboard"
-        ]
-      },
-      "quantity": 1
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:book"
-        ]
-      },
-      "quantity": 16
     }
   ],
   "researchLevel": 3,

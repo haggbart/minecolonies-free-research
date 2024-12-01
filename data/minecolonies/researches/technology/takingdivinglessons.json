@@ -11,33 +11,6 @@
     {
       "building": "plantation",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:kelp"
-        ]
-      },
-      "quantity": 16
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:seagrass"
-        ]
-      },
-      "quantity": 16
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:sea_pickle"
-        ]
-      },
-      "quantity": 16
     }
   ],
   "researchLevel": 3,

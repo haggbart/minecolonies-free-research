@@ -11,15 +11,6 @@
     {
       "building": "graveyard",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:iron_boots"
-        ]
-      },
-      "quantity": 1
     }
   ],
   "researchLevel": 2,

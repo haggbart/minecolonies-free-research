@@ -11,15 +11,6 @@
     {
       "building": "townhall",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:leather"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 2,

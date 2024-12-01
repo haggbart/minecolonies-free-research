@@ -11,15 +11,6 @@
     {
       "building": "library",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:cooked_chicken"
-        ]
-      },
-      "quantity": 128
     }
   ],
   "researchLevel": 4,

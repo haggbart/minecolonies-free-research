@@ -8,15 +8,6 @@
   "icon": "minecraft:redstone",
   "parentResearch": "minecolonies:technology/hot",
   "requirements": [
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:redstone"
-        ]
-      },
-      "quantity": 128
-    }
   ],
   "researchLevel": 2
 }

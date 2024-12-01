@@ -11,15 +11,6 @@
     {
       "building": "guardtower",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:arrow"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 2,

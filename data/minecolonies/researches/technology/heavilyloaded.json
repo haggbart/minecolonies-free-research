@@ -9,15 +9,6 @@
   "no-reset": true,
   "parentResearch": "minecolonies:technology/loaded",
   "requirements": [
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:emerald"
-        ]
-      },
-      "quantity": 256
-    }
   ],
   "researchLevel": 6
 }

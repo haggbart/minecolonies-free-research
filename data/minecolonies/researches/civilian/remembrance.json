@@ -10,15 +10,6 @@
     {
       "building": "townhall",
       "level": 2
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:bone"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 1,

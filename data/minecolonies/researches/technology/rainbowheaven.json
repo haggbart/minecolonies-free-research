@@ -11,15 +11,6 @@
     {
       "building": "composter",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:poppy"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 2,

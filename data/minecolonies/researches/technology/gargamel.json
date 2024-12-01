@@ -15,24 +15,6 @@
     {
       "building": "netherworker",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:crimson_fungus"
-        ]
-      },
-      "quantity": 16
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:warped_fungus"
-        ]
-      },
-      "quantity": 16
     }
   ],
   "researchLevel": 4,

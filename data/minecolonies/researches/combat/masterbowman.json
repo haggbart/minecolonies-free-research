@@ -8,15 +8,6 @@
   "icon": "minecraft:blaze_rod",
   "parentResearch": "minecolonies:combat/rapidshot",
   "requirements": [
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:bow"
-        ]
-      },
-      "quantity": 27
-    }
   ],
   "researchLevel": 6
 }

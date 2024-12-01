@@ -11,15 +11,6 @@
     {
       "building": "graveyard",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:totem_of_undying"
-        ]
-      },
-      "quantity": 1
     }
   ],
   "researchLevel": 4,

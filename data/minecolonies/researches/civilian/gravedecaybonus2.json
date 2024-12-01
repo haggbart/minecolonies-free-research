@@ -11,15 +11,6 @@
     {
       "building": "graveyard",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:nether_wart_block"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 3,

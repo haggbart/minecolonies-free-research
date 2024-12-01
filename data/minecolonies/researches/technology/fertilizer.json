@@ -11,15 +11,6 @@
     {
       "building": "smeltery",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:wheat_seeds"
-        ]
-      },
-      "quantity": 512
     }
   ],
   "researchLevel": 5,

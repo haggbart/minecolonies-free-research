@@ -11,15 +11,6 @@
     {
       "building": "cook",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:golden_apple"
-        ]
-      },
-      "quantity": 8
     }
   ],
   "researchLevel": 3

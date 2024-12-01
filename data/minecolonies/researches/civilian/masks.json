@@ -11,15 +11,6 @@
     {
       "building": "library",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:white_wool"
-        ]
-      },
-      "quantity": 32
     }
   ],
   "researchLevel": 3,

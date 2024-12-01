@@ -8,15 +8,6 @@
   "icon": "minecraft:chicken",
   "parentResearch": "minecolonies:combat/flee",
   "requirements": [
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:emerald"
-        ]
-      },
-      "quantity": 64
-    }
   ],
   "researchLevel": 6
 }

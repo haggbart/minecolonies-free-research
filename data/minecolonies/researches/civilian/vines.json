@@ -11,15 +11,6 @@
     {
       "building": "residence",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:vine"
-        ]
-      },
-      "quantity": 64
     }
   ],
   "researchLevel": 2,

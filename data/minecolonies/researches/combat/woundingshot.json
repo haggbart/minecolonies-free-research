@@ -11,15 +11,6 @@
     {
       "building": "barracks",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:flint"
-        ]
-      },
-      "quantity": 128
     }
   ],
   "researchLevel": 5

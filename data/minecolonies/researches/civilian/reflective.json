@@ -11,15 +11,6 @@
     {
       "building": "library",
       "level": 5
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:book"
-        ]
-      },
-      "quantity": 48
     }
   ],
   "researchLevel": 5,

@@ -11,15 +11,6 @@
     {
       "building": "archery",
       "level": 3
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:flint"
-        ]
-      },
-      "quantity": 32
     }
   ],
   "researchLevel": 3

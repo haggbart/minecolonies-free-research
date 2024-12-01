@@ -11,15 +11,6 @@
     {
       "building": "archery",
       "level": 1
-    },
-    {
-      "type": "minecolonies:item_list",
-      "item": {
-        "items": [
-          "minecraft:leather"
-        ]
-      },
-      "quantity": 32
     }
   ],
   "researchLevel": 3,
