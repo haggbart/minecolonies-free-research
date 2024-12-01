@@ -7,12 +7,7 @@
   ],
   "icon": "minecraft:ender_eye",
   "parentResearch": "minecolonies:technology/opennether",
-  "requirements": [,
-    {
-      "building": "netherworker",
-      "level": 1
-    }
-  ],
+  "requirements": [],
   "researchLevel": 3,
   "sortOrder": 4,
   "subtitle": "com.minecolonies.research.technology.netherlog.subtitle"
